@@ -1,2 +1,2 @@
-# Regras:
-https://undeadsec.github.io[https://undeadsec.github.io]
+### Regras do Grupo:
+https://undeadsec.github.io
