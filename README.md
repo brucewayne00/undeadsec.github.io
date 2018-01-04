@@ -2,3 +2,9 @@
 
 ### Regras do Grupo:
 https://undeadsec.github.io
+
+### Grupo: 
+https://t.me/UndeadSec
+
+### Canal no YouTube:
+https://www.youtube.com/c/UndeadSec
